@@ -52,7 +52,7 @@ The model includes:
 
 - Loss Function: CrossEntropyLoss
 - Optimizer: Adam
-- Epochs: 20
+- Epochs: 10
 - Batch Size: 64
 
 ## Results
